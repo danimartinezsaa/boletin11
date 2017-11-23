@@ -10,8 +10,8 @@ package boletin11;
  * @author dani
  */
 public class Seleccion{
-    int id,edad;
-    String nombre,apellido;
+    private int id,edad;
+    private String nombre,apellido;
 
     public Seleccion(){
     }
